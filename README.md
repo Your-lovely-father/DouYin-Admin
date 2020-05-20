@@ -16,7 +16,7 @@ __注意：由于涉及大量的 ES6/7 等新属性，node 需要 6.0 以上版�
 
 npm install
 
-npm run serve （请求后端地址在src/common/config.js中配置，请与[vue-douyin中的server配合使用](https://github.com/Your-lovely-father/DouYin-Admin)）
+npm run serve （请求后端地址在src/common/config.js中配置，请与[vue-douyin中的server配合使用](https://github.com/Your-lovely-father/DouYin)）
 
 
 ```
