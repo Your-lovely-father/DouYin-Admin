@@ -89,7 +89,7 @@ export default {
     return {
       loading: false,
       formData: {
-        userEmail: '814930498@qq.com',
+        userEmail: '95241616@qq.com',
         videoPath: 'https://video.pearvideo.com/mp4/adshort/20190130/cont-1512669-13539748_adpkg-ad_hd.mp4',
         videoCover: 'https://image.pearvideo.com/cont/20190130/cont-1512669-11820462.png',
         videoDesc: '视频描述。'

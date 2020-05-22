@@ -48,8 +48,8 @@ import { regEmail } from 'common/js/util'
 export default {
   data () {
     return {
-      username: '814930498@qq.com',
-      password: 'asdwsx1234',
+      username: '95241616@qq.com',
+      password: '123456',
       loading: false,
       disabled: false,
       btnText: '登录',
